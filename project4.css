@@ -1,0 +1,24 @@
+html{
+    background-color: blueviolet;
+}
+table, td, tr{
+    background-color: royalblue;
+    cursor: crosshair;
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 40px;
+    font-family: monospace;
+}
+.title{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    
+}
+p {
+    font-size: 30px;
+    text-align: center;
+}
+.turn {
+    font-size: 100px;
+}
